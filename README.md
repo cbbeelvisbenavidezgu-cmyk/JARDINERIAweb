@@ -23,5 +23,3 @@ Puedes desplegar esta página fácilmente en cualquier hosting estático:
 - Netlify  
 - Vercel  
 - Firebase Hosting  
-
-Ejemplo (Netlify):
